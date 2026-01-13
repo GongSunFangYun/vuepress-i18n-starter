@@ -82,8 +82,7 @@ docs/advanced/
 **nested_directory.json:**
 ```json
 {
-  "namespace": "Advanced Topics",
-  "sidebar_position": 2
+  "namespace": "Advanced Topics"
 }
 ```
 
