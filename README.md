@@ -2,6 +2,8 @@
 
 **VuePress Global Framework** is an intelligent, out-of-the-box documentation framework built on VuePress that revolutionizes how you create and manage multi-language documentation. It solves the two most painful problems in VuePress documentation: manual sidebar configuration and complex multilingual setup.
 
+**This project is no longer maintained. If needed, please use [vitepress-i18n-starter](https://github.com/GongSunFangYun/vitepress-i18n-starter).**
+
 ## Core Features
 
 ### Intelligent Sidebar Sorting
